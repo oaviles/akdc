@@ -1,4 +1,4 @@
-# Kind Dev Cluster on Codespaces (Spark)
+# Kind Dev Cluster on Codespaces (Kubernetes Developer Workshop / CKAD)
 
 > Setup a Kubernetes Developer Cluster using `kind` running in [GitHub Codespaces](https://github.com/features/codespaces)
 
